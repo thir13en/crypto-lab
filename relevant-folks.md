@@ -4,4 +4,5 @@
 1. Anthony Pompliano
 1. Vitalik Buterin
 1. Charles Hoskinson
+1. Gavin Wood
 

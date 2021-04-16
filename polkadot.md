@@ -10,7 +10,7 @@ It is a good idea aparently since Ethereum is also moving to a sharded blockchai
 The heart of the Polkadot network: security and interoperability.
 
 ### Parachains
-Blockhcains built on top of Polkadot with their own utility tokens.
+Blockhcains built on top of Polkadot with their own utility tokens. There is a fee paid in DOT to send tokens to other parachains, intended to keep consensus on the global state of the relay chain.
 
 ### Bridges
 These are the entities that will allow the parachains to communicate with external networks.
@@ -29,4 +29,6 @@ Maintain transactional state in the individial shards. Collect shard transaction
 Monitor the network and report bad behaviour to validators, collators and any parachain.
 
 ### Grandpa Consensus mechanism
+
+
 

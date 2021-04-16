@@ -15,3 +15,18 @@ Blockhcains built on top of Polkadot with their own utility tokens.
 ### Bridges
 These are the entities that will allow the parachains to communicate with external networks.
 
+### Consensus
+#### Nominators
+Secure the blockchain by selecting trustworthy validators and staking dots.
+
+#### Validators
+Secure the relay chain by staking dots, validating proof of collators and participating in consensus with other validators.
+
+#### Collators
+Maintain transactional state in the individial shards. Collect shard transactions and users producing proof for validation.
+
+#### Fishermen
+Monitor the network and report bad behaviour to validators, collators and any parachain.
+
+### Grandpa Consensus mechanism
+

@@ -1,2 +1,2 @@
 # Blockchain Laboratory
-My laboratory to play around with money and security
+My laboratory to play around with digital value transfer systems

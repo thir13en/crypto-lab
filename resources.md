@@ -10,3 +10,6 @@
 1. [Layered Money](https://www.goodreads.com/book/show/56598876-layered-money)
 1. [Inventing Bitcoin](https://www.goodreads.com/en/book/show/43607503-inventing-bitcoin)
 1. [Bitcoin Clarity](https://www.goodreads.com/book/show/55428046-bitcoin-clarity)
+
+### News
+1. [Bitcoin Magazine](https://bitcoinmagazine.com/)
